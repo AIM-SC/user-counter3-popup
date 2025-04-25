@@ -3,6 +3,10 @@
 - TkEasyGUIを使ってUIを構築します。
 - PyInstallerを使ってexeにすることで、Pythonの実行環境がないWindowsでも動作します。
 
+## このシステムについて
+- このシステムは[https://github.com/AIM-SC/user-counter-3](https://github.com/AIM-SC/user-counter-3)に関連しています。
+- リポジトリは作業記録として残しますが、今後更新する予定はありません。
+
 ## インストール要件
 - pythonの```3.13.2```を使っています（他のバージョンでも動くと思いますが未確認）
 - モジュールのバージョンは```requirements.txt```をみてください。
